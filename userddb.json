@@ -19,12 +19,5 @@
         "password": "Admin123",
         "expirydate": "13-12-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "f07fe6f2f777a3d7",
-        "username": "Admin",
-        "password": "Admin1234",
-        "expirydate": "13-12-2025",
-        "Allowoffline": false
     }
 ]
